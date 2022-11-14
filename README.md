@@ -12,7 +12,7 @@
 1. Clone this repository
 
 ```
-git clone https://github.com/11aprilian/project-5.git
+git clone https://github.com/anjisilham1/TPA-5.git
 ```
 
 2. Installing all dependencies
